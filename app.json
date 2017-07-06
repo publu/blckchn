@@ -1,0 +1,7 @@
+{
+  "name": "Blckchn Demo App",
+  "description": "Blckchn Demo app description",
+  "repository": "https://github.com/publu/demo",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "demo", "uport"]
+}
