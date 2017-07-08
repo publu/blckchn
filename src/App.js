@@ -41,7 +41,7 @@ class App extends Component {
     return (
       <AppWrap>
         <AppNavbar />
-        <Iframe url="http://localhost:8000"
+        <Iframe url="http://blckchn.s3-website-us-east-1.amazonaws.com/bg.html"
         width="100%"
         height="100%"
         display="initial"
